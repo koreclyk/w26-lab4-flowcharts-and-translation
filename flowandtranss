@@ -1,7 +1,7 @@
 // Part 1 - create flowchart with the following code
 /*
 class HelloWorld{
-   public static void main(String args[]{
+   public static void main(String args[]){
       int x= 5;
 
       // below is a chain of conditions
