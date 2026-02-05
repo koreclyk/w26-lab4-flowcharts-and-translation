@@ -1,0 +1,30 @@
+// Part 1 - create flowchart with the following code
+/*
+class HelloWorld{
+   public static void main(String args[]{
+      int x= 5;
+
+      // below is a chain of conditions
+      if (x > 0){
+         System.out.println("x is positive and a non-zero");
+
+         // below is nested conditionals
+         // and chained too!
+         if (x % 2 == 0){
+            System.out.println("x is also even");
+         }
+         else{
+            System.out.println("x is also odd");
+         }
+      }
+      else if (x < 0){
+         System.out.println("x is negative and a non-zero");
+      }
+      else{
+         System.out.println("x is zero");
+      }
+   }
+}
+
+
+*/
