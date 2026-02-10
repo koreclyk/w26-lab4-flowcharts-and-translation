@@ -28,3 +28,76 @@ class HelloWorld{
 
 
 */
+
+//PART 2
+//we're looking good!
+
+/*
+import java.util.Scanner;
+
+class Playground{
+
+   public static void main(String[] args){
+      Scanner in = new Scanner(System.in);
+      
+      System.out.print("\n\t^v^v^v English to Hawaiian ^v^v^v\n\t\t\t  ~color translator~\n\n");
+      
+      System.out.print("Enter one of your favorite colors: ");
+      String color = in.next();
+   
+      switch (color) {
+         case "red":
+         case "Red":
+            System.out.println("'ula'ula");
+            break;
+         case "black":
+         case "Black":
+            System.out.println("'ele'ele");
+            break;
+         case "yellow":
+         case "Yellow":
+            System.out.println("melemele");
+            break;
+         case "purple":
+         case "Purple":
+            System.out.println("poni");
+            break;
+         case "blue":
+         case "Blue":
+            System.out.println("polu");
+            break;
+         case "pink":
+         case "Pink":
+            System.out.println("'akala");
+            break;
+         case "orange":
+         case "Orange":
+            System.out.println("'alani");
+            break;
+         case "white":
+         case "White":
+            System.out.println("ke'oke'o");
+            break;
+         case "gray":
+         case "Gray":
+            System.out.println("'ahinahina");
+            break;
+         case "green":
+         case "Green":
+            System.out.println("'oma'oma'o");
+            break;
+         case "brown":
+         case "Brown":
+            System.out.println("maku'e");
+            break;
+         default:
+            System.out.print("Term not found...");
+            break;
+      }
+   }
+
+}
+
+
+
+*/
